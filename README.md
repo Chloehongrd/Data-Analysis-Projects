@@ -1,4 +1,4 @@
-## 🚲 Case Study: Bike Sharing Program In Chicago 
+## 🚲 Case Study: Bike Sharing Program in Chicago 
 Capstone project for the Google Data Analytics Professional Certificate program. The program prepares participants for a career in data analytics.
 
 
@@ -16,7 +16,6 @@ Cyclistic, launched in 2016 in Chicago, operates a bike-share program with a fle
   - Commuters, who have longer average ride lengths compared to members:
      - Classic bikes: 22-25 minutes.
      - Electric bikes: around 15 minutes.
-
 
 
 ### Key Insight
