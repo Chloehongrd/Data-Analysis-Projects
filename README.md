@@ -2,16 +2,22 @@
 Capstone project for the Google Data Analytics Professional Certificate program. The program prepares participants for a career in data analytics.
 
 
-### Overview
-The project explores how annual members and casual riders use Cyclistic bike sharing program differently, drawing insights from which to facilitate the marketing strategies to convert casual riders to members. 
-
-Cyclistic launched a bike-share program in 2016, in Chicago. It has since grown to a fleet of 5,824 geo-tracked bicycles and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
+#### Overview:
+This project explores the differences in usage patterns between annual members and casual riders of the Cyclistic bike-sharing program. The goal is to derive insights that can inform marketing strategies aimed at converting casual riders into members.
 
 
-### Summary of Findings
-- Member users use the bike-sharing system for commuting purposes. The average ride length is around 10-15 minutes.
-- Among casual users, a fraction use the bike-sharing system for leisure while a fraction use the system for daily commutes.
-- Unlike member users, casual-user commuters have a longer average ride length, around 22-25 minutes using classic bikes, and around 15 minutes using electric bikes.
+#### Context 
+Cyclistic, launched in 2016 in Chicago, operates a bike-share program with a fleet of 5,824 geo-tracked bicycles available at 692 stations across the city. Users can unlock bikes from one station and return them to any other station within the system at any time.
+
+#### Summary of Findings
+- Members: Primarily use the bike-sharing system for commuting, with an average ride length of 10-15 minutes.
+- Casual Riders: Consist of two main groups
+  - Leisure users.
+  - Commuters, who have longer average ride lengths compared to members:
+     - Classic bikes: 22-25 minutes.
+     - Electric bikes: around 15 minutes.
+
+
 
 ### Key Insight
-By investigating the usage patterns between casual and member users, I found similarities in usage patterns during weekday rush hour between a fraction of causal users and member users. Around the same time of the day, casual users however have a longer average ride length, suggesting that they live farther than their member counterparts. Given this observation, I propose experimenting with an electric bike membership targeted at casual users to encourage their conversion to member users.
+A fraction of casual users show similar usage patterns to members during weekday rush hours, but with longer ride durations, indicating they live farther away. Based on this observation, I recommend experimenting with an electric bike membership specifically designed for casual users. This strategy could encourage casual riders to become members by offering a more convenient and time-efficient commuting option.
