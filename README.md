@@ -21,3 +21,8 @@ Cyclistic, launched in 2016 in Chicago, operates a bike-share program with a fle
 
 ### Key Insight
 A fraction of casual users show similar usage patterns to members during weekday rush hours, but with longer ride durations, indicating they live farther away. Based on this observation, I recommend experimenting with an electric bike membership specifically designed for casual users. This strategy could encourage casual riders to become members by offering a more convenient and time-efficient commuting option.
+
+
+
+
+<div align="right">Dec, 2023</div>
